@@ -1,0 +1,3 @@
+Git clone - Cria uma copia funcional de um repositorio local ou remoto
+Git push - envia as alteracoes para o branch pretendido.
+Git pull - busca as alteracoes feitas no servidor remoto e guarda no nosso diretorio.
